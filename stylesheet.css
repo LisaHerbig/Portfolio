@@ -1,6 +1,7 @@
 body {
     background-image: url(bg.png);
     background-attachment: fixed;
+    text-align: center;
 }
 
 .Kreis {
@@ -100,7 +101,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
     color: darkcyan;
-    margin-left: 15%;
+    margin-left: 5%;
+    left: 1% !important;
     margin-top: 100px;
 }
 .überschrift1  {
