@@ -176,6 +176,6 @@ input[type=text] {
     text-align: center;
 }
 
-p, a {
+.text, a {
     text-align: center;
 }
