@@ -175,3 +175,7 @@ input[type=text] {
 .a{
     text-align: center;
 }
+
+p, a {
+    text-align: center;
+}
